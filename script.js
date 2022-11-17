@@ -73,11 +73,6 @@ function operaciones(op){
             operacion = document.getElementById("resultado").value;
             document.getElementById("memoria").value = "porcentaje";
             break;
-        /* case 'delete':
-            var operando1 = document.getElementById("resultado").value;
-            operacion = document.getElementById("resultado").value;
-            document.getElementById("memoria").value = "borrar";
-            break; */
         case 'igual':
             operacion = document.getElementById("resultado").value;
             var memoriaop = document.getElementById("memoria").value;
