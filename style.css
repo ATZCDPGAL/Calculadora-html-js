@@ -3,6 +3,14 @@
     background-color: #22252d;
 }
 
+h2, p{
+    color: white;
+}
+
+p{
+font-size: 18px;
+}
+
 abbr{
     text-align: center;
     color: white;
@@ -22,14 +30,9 @@ abbr{
     border-radius: 25px;
     background-color: #282b33;
     color: white;
-    position: relative;
-    left: 34%;
+
 }
 
-.botones{
-    position: absolute;
-    left: 34%;
-}
 
 .botones button{
     font-size: 25px;
@@ -94,4 +97,3 @@ abbr{
     background-color: #0f0f12;
 
 }
-
